@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include",
+                "F:/esp8266files/ESP8266RTOS/msys32/opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/5.2.0/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "browse": {
+                "path": [
+                    "F://esp8266files//ESP8266RTOS//msys32//home//lin//esp//ESP8266_RTOS_SDK//components",
+                    "F://esp8266files//ESP8266RTOS//msys32//opt//xtensa-lx106-elf"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}
